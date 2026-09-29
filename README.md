@@ -1,4 +1,4 @@
-# simple-interest-calculator.
+#github-final-project
 # Simple Interest Calculator
 
 This repository contains a simple interest calculator that determines the interest generated on a principal amount over a specific period of time.
